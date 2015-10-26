@@ -1,0 +1,8 @@
+Program APCI-1301154254
+Uses Crt;
+Begin
+    ClrScr
+    writeln('HEllO WORLD') ;
+    writeln('NORHADI') ;
+    writeln('1301154254') ;
+    writeln('IF-39-02') ;
